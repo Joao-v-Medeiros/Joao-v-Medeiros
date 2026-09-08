@@ -1,13 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=140&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=34&center=true&vCenter=true&width=1000&lines=Olá%2C+eu+sou+João+Victor!;Estudante+de+ADS+%7C+Brasil;Desenvolvedor+Full+Stack+em+formação;Apaixonado+por+tecnologia+🚀;Sempre+aprendendo+e+construindo"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=34&center=true&vCenter=true&width=1000&lines=Olá%2C+eu+sou+João+Victor!;Estudante+de+ADS+%7C+Brasil;Desenvolvedor+Full+Stack+em+formação;Apaixonado+por+tecnologia+🚀;Futuro+profissional+de+Cibersegurança+🔐"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEUUSUARIO">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
-  </a>
+  <b>Desenvolvimento • Java • Full Stack • Cibersegurança</b>
 </p>
 
 ---
@@ -16,17 +14,15 @@
 
 Olá! Eu sou **João Victor**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvedor **Full Stack em formação**.
 
-Minha jornada na tecnologia começou com cursos de informática e, posteriormente, com a formação **PROA Full Stack**, onde tive contato com desenvolvimento Front-end e Back-end.
+Minha jornada na tecnologia começou através da área de informática e, posteriormente, da formação **PROA Full Stack**, onde tive contato com desenvolvimento Front-end e Back-end.
 
-Atualmente, estou focado principalmente em **Java e desenvolvimento Back-end**, buscando fortalecer minha base em programação, Programação Orientada a Objetos e construção de aplicações.
+Atualmente, estou focado em fortalecer minha base em **Java, Programação Orientada a Objetos e desenvolvimento de aplicações**, criando projetos para colocar meus conhecimentos em prática.
 
-Também gosto de criar projetos próprios para colocar meus conhecimentos em prática e transformar o que estudo em algo funcional.
-
-🎯 **Meu objetivo:** entrar no mercado de tecnologia, evoluir como desenvolvedor e, futuramente, atuar como **Desenvolvedor Full Stack**.
+Meu objetivo é entrar no mercado de tecnologia, crescer como desenvolvedor e, no futuro, direcionar minha carreira para a área de **Cibersegurança**. 🔐
 
 ---
 
-## 🚀 Tecnologias
+## 🛠️ Tecnologias
 
 ### 🎨 Front-end
 
@@ -67,7 +63,7 @@ Também gosto de criar projetos próprios para colocar meus conhecimentos em pr�
 
 ## 📚 Atualmente estudando
 
-☕ **Java**
+### ☕ Java
 
 * Programação Orientada a Objetos
 * Classes e objetos
@@ -76,79 +72,36 @@ Também gosto de criar projetos próprios para colocar meus conhecimentos em pr�
 * Polimorfismo
 * Collections
 * Tratamento de exceções
-* Boas práticas de programação
+* Lógica de programação
+* Boas práticas de desenvolvimento
 
-🌱 **Próximos passos**
+### 🌱 Próximos passos
 
 * Spring Boot
 * APIs REST
 * MySQL
 * Integração Front-end + Back-end
-* Projetos Full Stack
-
----
-
-## 💻 Projetos
-
-Aqui estão alguns dos projetos que venho desenvolvendo para praticar e aplicar meus conhecimentos:
-
-### 📚 Sistema de Biblioteca — Java
-
-Sistema desenvolvido em Java para gerenciamento de livros e usuários.
-
-**Conceitos praticados:**
-
-* Programação Orientada a Objetos
-* Classes e objetos
-* Collections
-* Encapsulamento
-* Lógica de programação
-
-🔗 Em desenvolvimento
-
----
-
-### 🌱 Everrise — Front-end
-
-Projeto desenvolvido durante minha formação Full Stack, envolvendo a criação de interfaces e páginas web.
-
-**Tecnologias:**
-
-`HTML` `CSS` `JavaScript` `React` `Figma`
-
-🔗 Confira meus repositórios para acompanhar os projetos.
-
----
-
-### 🦷 Projeto de Site para Clínica Odontológica
-
-Projeto desenvolvido com foco em criar uma presença digital profissional para uma clínica odontológica.
-
-**Tecnologias:**
-
-`HTML` `CSS` `JavaScript`
-
-🔗 Em desenvolvimento
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117"/>
-</p>
+* Fundamentos de Cibersegurança 🔐
 
 ---
 
 ## 🎯 Objetivos
 
 * 🚀 Entrar no mercado de tecnologia
-* 💻 Conseguir minha primeira oportunidade como desenvolvedor
-* ☕ Evoluir cada vez mais em Java
-* 🌐 Me desenvolver como Full Stack
-* 📂 Construir projetos reais e relevantes
-* 🧠 Continuar aprendendo todos os dias
+* 💻 Crescer como desenvolvedor
+* ☕ Me aprofundar em Java
+* 🌐 Evoluir como Full Stack
+* 🔐 Estudar Cibersegurança no futuro
+* 🧠 Continuar aprendendo e praticando
+* 📈 Construir uma carreira sólida na área de tecnologia
+
+---
+
+## 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
 
 ---
 
